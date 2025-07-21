@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Mobile App Developer",
+    "organisation": "Nucleonix",
+    "startDate": "May, 2025",
+    "endDate": "July, 2025",
+    "experiences": ["Built radiation monitoring app", "Integrated BLE device tracking"],
+    "imageSrc": "history/Nuc.png"
+  },
+  {
+    "role": "President",
+    "organisation": "Robotics Club GCET",
+    "startDate": "June 2025",
+    "endDate": "Present",
+    "experiences": [" Leading 105-member team", "Driving innovation and growth"],
+    "imageSrc": "history/robotic.png"
+  },
+  {
+    "role": "AI-ML Internship",
+    "organisation": "AICTE",
+    "startDate": "Apr, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Google Developers certified",
+      "Strengthened core ML skills"
+    ],
+    "imageSrc": "history/google.png"
+  }
+]
