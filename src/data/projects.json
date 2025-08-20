@@ -33,10 +33,11 @@
   },
   {
     "title": "Simple ChatBot",
-    "imageSrc": "projects/spyder.png",
+    "imageSrc": "projects/image.png",
     "description": "A simple chatbot designed to interact with users and respond intelligently using predefined logic.",
     "skills": ["Python","Pyttsx3","Speech recongition"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
+
 ]
