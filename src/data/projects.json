@@ -38,6 +38,14 @@
     "skills": ["Python","Pyttsx3","Speech recongition"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
+  },
+  {
+    "title": "Google Workspace Agent",
+    "imageSrc": "projects/GW.png",
+    "description": "An AI Agent to automate and controll Google Desktop Apps through prompts",
+    "skills": ["Python","Google API","Cohere"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
   }
 
 ]
