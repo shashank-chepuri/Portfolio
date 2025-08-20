@@ -25,7 +25,7 @@
   },
   {
     "title": "Event Registration Site",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Reg.png",
     "description": "Developed a web platform for college events, integrating paymment gateway. ",
     "skills": ["React", "Node","MongoDB"],
     "demo": "https://www.example.com",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Simple ChatBot",
-    "imageSrc": "projects/image.png",
+    "imageSrc": "projects/chat.png",
     "description": "A simple chatbot designed to interact with users and respond intelligently using predefined logic.",
     "skills": ["Python","Pyttsx3","Speech recongition"],
     "demo": "https://www.example.com",
